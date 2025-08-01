@@ -3,4 +3,8 @@
     "version": "1.1.0",
     "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/Wemos_esp32_DHt22.ino.bin"
   }
+ "B2": {
+    "version": "1.1.0",
+    "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/Mini-Oled-Navigation.ino.bin"
+  }
 }
