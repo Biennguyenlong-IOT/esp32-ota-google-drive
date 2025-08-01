@@ -10,7 +10,7 @@
   },
 
  "AM032": {
-    "version": "v1.0",
+    "version": "v0.0",
     "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/ESP32-OLED-pin.ino.bin"
   }
 }
