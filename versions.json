@@ -10,7 +10,7 @@
   },
 
  "AM032": {
-    "version": "v0.0",
+    "version": "v1.1",
     "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/Mini-Oled-Navigation.ino.bin"
   }
 }
