@@ -1,6 +1,6 @@
 {
  "Wemos": {
-    "version": "v1.1",
+    "version": "v1.2",
     "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/Wemos_D1_R32/Wemos_esp32_DHt22.ino.bin"
   },
 
