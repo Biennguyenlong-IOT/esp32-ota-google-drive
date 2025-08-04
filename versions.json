@@ -15,7 +15,7 @@
   },
 
  "ESP32_WifiMulti": {
-    "version": "v1.1",
+    "version": "v1.0",
     "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/ESP32_WifiMulti/Esp32_WifiMulti.ino.bin"
   }
 
