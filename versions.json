@@ -14,7 +14,7 @@
     "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/AM-032/ESP32-OLED-pin.ino.bin"
   },
 
- "ESP32_WifiMulti": {
+ "ESP32_Multi": {
     "version": "v1.1",
     "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/ESP32_WifiMulti/Esp32_WifiMulti.ino.bin"
   }
