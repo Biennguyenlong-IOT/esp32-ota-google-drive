@@ -19,7 +19,7 @@
     "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/ESP32_WifiMulti/Esp32_WifiMulti.ino.bin"
   },
 
- "DASAI_ESP32_U8G2": {
+ "DASAI_ESP32_U8G21": {
     "version": "v1.0",
     "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/DASAI_ESP32_U8G2/DASAI_ESP32_U8G2.ino.bin"
   }
