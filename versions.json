@@ -20,7 +20,7 @@
   },
 
  "DASAI_ESP32_U8G2": {
-    "version": "v1.0.2",
+    "version": "v1.0.3",
     "bin": "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/firmware/DASAI_ESP32_U8G2/DASAI_ESP32_U8G2.ino.bin"
   }
 
