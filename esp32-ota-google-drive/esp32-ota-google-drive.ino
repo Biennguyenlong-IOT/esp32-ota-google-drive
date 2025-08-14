@@ -5,8 +5,8 @@
 #include <ArduinoJson.h>
 #include <WiFiManager.h>  // Thư viện WiFiManager
 
-const char* device_id = "B1";
-const char* current_version = "1.0.0";
+const char* device_id = "Mini_Oled_Navigation";
+const char* current_version = "v0.0";
 const char* version_json_url = "https://biennguyenlong-iot.github.io/esp32-ota-google-drive/versions.json";
 
 void setup() {
